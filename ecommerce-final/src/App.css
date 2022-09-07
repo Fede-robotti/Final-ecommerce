@@ -1,0 +1,13 @@
+.GeeksForGeeks {
+    background-image: 
+    url(
+  "https://media.a24.com/p/70bbfb1c76cd303e429f34968f336aa1/adjuntos/296/imagenes/008/783/0008783966/1200x675/smart/comercio-electronicojpg.jpg"
+   
+  );
+    background-size: cover;
+    height: auto;
+    width: 100%;
+    margin-top: -40px;
+    margin-left: 0px;
+    background-repeat:no-repeat; 
+  }

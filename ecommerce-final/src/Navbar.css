@@ -1,0 +1,12 @@
+.GeeksForGeeks {
+    background-image: 
+    url(
+  "https://ae01.alicdn.com/kf/Hd0655e64f6624359977285f48714417dH/Fondo-fotogr-fico-con-textura-de-estilo-INS-para-tienda-de-zapatos-fondos-de-fotograf-a.jpg_Q90.jpg_.webp"
+   
+  );
+    background-size: "cover";
+    height: 10px;
+    width: 100%;
+    box-shadow:"none";
+    background-repeat:repeat; 
+  }
